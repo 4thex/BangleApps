@@ -1958,5 +1958,20 @@
       {"name":"miclock2.app.js","url":"clock-mixed.js"},
       {"name":"miclock2.img","url":"clock-mixed-icon.js","evaluate":true}
     ]
-  }
+  },
+{
+  "id": "fitbngl",
+  "name": "Fit Bangle",
+  "shortName":"Fit",
+  "icon": "app-icon.png",
+  "version":"0.01",
+  "description": "All things fitness",
+  "tags": "",
+  "readme": "README.md",
+  "storage": [
+    {"name":"fitbngl.app.js","url":"app.js"},
+    {"name":"fitbngl.img","url":"app-icon.js","evaluate":true}
+  ]
+}
+
 ]
